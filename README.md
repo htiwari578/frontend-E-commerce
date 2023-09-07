@@ -1,1 +1,1 @@
-Link: shop-online1.netlify.app
+Link:https://shop-online1.netlify.app
