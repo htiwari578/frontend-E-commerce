@@ -1,1 +1,1 @@
-Link: https://quiz-app1-react.netlify.app
+Link: shop-online1.netlify.app
